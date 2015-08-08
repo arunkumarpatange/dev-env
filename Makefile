@@ -1,6 +1,5 @@
 #
 # Module: Makefile
-# Descr : Makefile for Cyan Central
 #
 #
 

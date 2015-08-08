@@ -1,0 +1,8 @@
+:insert
+/*
+ * File  :
+ * Descr :
+ * babel --modules amd *.6.js -o *.js
+ *
+ * Copyright(c) 2015, Cyan, Inc. All rights reserved.
+*/

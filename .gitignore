@@ -1,0 +1,5 @@
+*.pyc
+*.*.swp
+
+# ignore virtualenv, setup using make prepare-env
+venv
